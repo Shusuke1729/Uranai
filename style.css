@@ -31,6 +31,19 @@ body {
     color: #ff9100;
     text-shadow: 0 0 16px #ff9100, 0 0 32px #fff;
 }
+.result.daikichi {
+    color: #00eaff;
+    font-family: 'Impact', 'Segoe UI', 'Arial', sans-serif;
+    letter-spacing: 0.3em;
+    text-shadow:
+        0 0 24px #00eaff,
+        0 0 48px #fff,
+        2px 2px 0 #222;
+    font-size: 3rem;
+    font-style: italic;
+    border-bottom: 2px solid #00eaff;
+    padding-bottom: 8px;
+}
 .fortune-btn {
     background: linear-gradient(90deg, #ff1744 0%, #ff9100 100%);
     color: #fff;

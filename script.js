@@ -1,6 +1,7 @@
 const fortuneBtn = document.getElementById('fortuneBtn');
 fortuneBtn.addEventListener('click', function() {
     const results = [
+        { text: '大吉', class: 'daikichi' },
         { text: '大凶', class: 'daikyo' },
         { text: '凶', class: 'kyo' }
     ];
